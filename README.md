@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuzka</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [my little game](https://github.com/Zuzanagrego/top-down-game)
-
-- 🌱 I’m currently learning **React ⚛️**
-
-- 👨‍💻 All of my projects are available at [zuzanagrego.com](zuzanagrego.com)
+- 🌱 I’m currently most working with **React ⚛️**
 
 - 💬 Ask me about **CSS animations ✨**
 
