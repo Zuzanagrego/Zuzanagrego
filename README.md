@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zuzka</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently most working with **React ⚛️**
+- 🌱 I’m currently working with **React ⚛️**
 
 - 💬 Ask me about **CSS animations ✨**
 
 - 📫 How to reach me **zuzanagrego@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zuzanagrego/](https://www.linkedin.com/in/zuzanagrego/)
+- 📄 Learn about my experience [https://www.linkedin.com/in/zuzanagrego/](https://www.linkedin.com/in/zuzanagrego/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
