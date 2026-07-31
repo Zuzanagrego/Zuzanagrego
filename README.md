@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **CSS animations ✨**
 
-- 📫 How to reach me **zuzanagrego@gmail.com**
-
 - 📄 Learn about my experience [https://www.linkedin.com/in/zuzanagrego/](https://www.linkedin.com/in/zuzanagrego/)
 
 <h3 align="left">Connect with me:</h3>
